@@ -90,4 +90,8 @@ so it may take some time to render.
 
 # Examples
 
+![](https://github.com/kyrcha/ray-tracing/blob/master/demo1.png?raw=true)
 
+![](https://github.com/kyrcha/ray-tracing/blob/master/demo2.png)
+
+![](https://github.com/kyrcha/ray-tracing/blob/master/demo3.png)
